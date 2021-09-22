@@ -1,0 +1,41 @@
+main {
+    background-color: lavender;
+    width: 50%;
+    margin: auto;
+    padding: 50px;
+}
+
+div {
+    background-color: pink;
+    width: 50%;
+    margin: auto;
+    padding: 5px;
+}
+
+div img {
+    margin: 6% 37.5%;
+}
+
+div input[type="password"]::-ms-reveal {
+    background: #c00;
+    color: black;
+}
+
+.div__fields {
+    display: flex;
+    margin: 8px auto;
+    justify-content: space-between;
+    width: 94%;
+}
+
+.div__fields label {
+    font-size: 17px;
+}
+
+.pic {
+    position: absolute;
+    position: absolute;
+    margin: 0px 0px 0px 336px;
+    width: 20px;
+    height: 18px;
+}
